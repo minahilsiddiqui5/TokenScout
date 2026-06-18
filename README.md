@@ -1,6 +1,6 @@
 # TokenScout
 
-A budget-aware AI research agent. Give it a topic and a dollar budget — it
+A budget-aware AI research agent. Give it a topic and a dollar budget, it
 searches the web, writes a sourced briefing, critiques its own draft, and
 tracks the cost of every step so it never overspends.
 
